@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">openhouseai</string>
+    <string name="title_activity_main">openhouseai</string>
+    <string name="package_name">com.openhouse.app</string>
+    <string name="custom_url_scheme">com.openhouse.app</string>
+</resources>
