@@ -1,0 +1,6 @@
+{
+	"appId": "com.openhouse.app",
+	"appName": "openhouseai",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
